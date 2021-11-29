@@ -1,0 +1,7 @@
+{
+    "id":"raspberryPi",
+    "description":"Плагин raspberryPi",
+    "comment":"файл .ih используется для опеределения версии и обновлений.",
+    "cross":true,
+	"version":"5.0.1"
+}
