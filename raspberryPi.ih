@@ -1,7 +1,7 @@
 {
     "id":"raspberryPi",
     "description":"Плагин raspberryPi",
-    "comment":"файл .ih используется для опеределения версии и обновлений.",
+    "comment":"Process GPIO and 1-Wire (DS18B20 Sensors)",
     "cross":true,
-	"version":"5.0.1"
+    "version":"5.5.1"
 }
